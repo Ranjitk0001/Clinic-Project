@@ -1,7 +1,7 @@
-package com.peakprosysproject.hospitalManagementSystemBackEnd.service;
+package com.clinic.cms.service;
 
-import com.peakprosysproject.hospitalManagementSystemBackEnd.entity.Appointment;
-import com.peakprosysproject.hospitalManagementSystemBackEnd.repository.AppointmentRepository;
+import com.clinic.cms.entity.Appointment;
+import com.clinic.cms.repository.AppointmentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

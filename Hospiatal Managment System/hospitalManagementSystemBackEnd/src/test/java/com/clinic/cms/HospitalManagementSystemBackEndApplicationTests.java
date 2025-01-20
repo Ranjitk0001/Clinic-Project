@@ -1,4 +1,4 @@
-package com.peakprosysproject.hospitalManagementSystemBackEnd;
+package com.clinic.cms;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

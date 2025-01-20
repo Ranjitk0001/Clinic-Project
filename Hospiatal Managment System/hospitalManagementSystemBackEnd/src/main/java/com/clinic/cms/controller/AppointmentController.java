@@ -1,10 +1,10 @@
-package com.peakprosysproject.hospitalManagementSystemBackEnd.controller;
+package com.clinic.cms.controller;
 
 //public class AppointmentController {
 //}
 
-import com.peakprosysproject.hospitalManagementSystemBackEnd.entity.Appointment;
-import com.peakprosysproject.hospitalManagementSystemBackEnd.service.AppointmentService;
+import com.clinic.cms.entity.Appointment;
+import com.clinic.cms.service.AppointmentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

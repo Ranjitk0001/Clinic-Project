@@ -1,4 +1,4 @@
-package com.peakprosysproject.hospitalManagementSystemBackEnd.entity;
+package com.clinic.cms.entity;
 
 import jakarta.persistence.*;
 

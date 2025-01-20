@@ -1,4 +1,4 @@
-package com.peakprosysproject.hospitalManagementSystemBackEnd;
+package com.clinic.cms;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -8,7 +8,7 @@ public class HospitalManagementSystemBackEndApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HospitalManagementSystemBackEndApplication.class, args);
-		System.out.println("Hospital Management System BackEnd");
+		System.out.println("Hospital Management ");
 	}
 
 }

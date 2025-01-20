@@ -1,9 +1,9 @@
-package com.peakprosysproject.hospitalManagementSystemBackEnd.repository;
+package com.clinic.cms.repository;
 
 //public interface AppointmentRepository {
 //}
 
-import com.peakprosysproject.hospitalManagementSystemBackEnd.entity.Appointment;
+import com.clinic.cms.entity.Appointment;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface AppointmentRepository extends JpaRepository<Appointment, Long> {
