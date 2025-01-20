@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.peakprosysproject</groupId>
-	<artifactId>hospitalManagementSystemBackEnd</artifactId>
+	<artifactId>clinic</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>hospitalManagementSystemBackEnd</name>
+	<name>clinic</name>
 	<description>React js and spring boot using Jpa and mysql</description>
 	<url/>
 	<licenses>
